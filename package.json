@@ -1,13 +1,13 @@
 {
-  "name": "gmod-ts-template",
+  "name": "gmodtf2sweps",
   "version": "1.0.0",
-  "description": "A template!",
+  "description": "Guns! Lots of murderous guns!",
   "scripts": {
     "build": "npx tstl"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rwilliaise/gmod-ts-template.git"
+    "url": "https://github.com/rwilliaise/gmodtf2sweps.git"
   },
   "keywords": [
     "gmod",

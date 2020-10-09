@@ -7,7 +7,8 @@
     "lib": ["ESNext"],
     "moduleResolution": "node",
     "types": ["@glua-ts/types"],
-    
+
+    "experimentalDecorators": true,
     "strict": true,
   },
   "include": [
