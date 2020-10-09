@@ -1,0 +1,25 @@
+{
+  "name": "gmod-ts-template",
+  "version": "1.0.0",
+  "description": "A template!",
+  "scripts": {
+    "build": "npx tstl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwilliaise/gmod-ts-template.git"
+  },
+  "keywords": [
+    "gmod",
+    "typescript",
+    "template"
+  ],
+  "author": "Raja Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript-to-lua": "^0.35.0"
+  },
+  "dependencies": {
+    "@glua-ts/types": "^0.1.0"
+  }
+}
